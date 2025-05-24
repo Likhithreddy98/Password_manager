@@ -1,0 +1,23 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore env files
+.env
+.env.local
+.env.*.local
+
+# Ignore build outputs
+build/
+dist/
+coverage/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editor/OS-specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
